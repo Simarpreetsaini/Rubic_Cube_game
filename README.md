@@ -28,7 +28,7 @@ Three.js – Core 3D engine for cube rendering and interaction
 <img width="1880" height="907" alt="5" src="https://github.com/user-attachments/assets/a3041fbc-d344-46a2-b8a8-81956f88e4d8" />
 
 
-🌐 Live Demo 🔗 GitHub Pages: 
+🌐 Live Demo 🔗 GitHub Pages: https://simarpreetsaini.github.io/Rubic_Cube_game/
 
 🔮 Future Enhancements ✨ Add cube rotation history or solver algorithm ✨ Implement timer-based challenges or leaderboards ✨ Integrate sound effects and background music ✨ Add save/load game state with persistent storage
 
